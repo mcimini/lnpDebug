@@ -51,8 +51,12 @@ Usage of the debugger:
 <ul>
 <li> ./debug.sh file_1.lnp ... file_n.lnp langFile.lan
 <br />
-files <b>debug.sh</b> and <b>testOne.sh</b> of the main folder of the repo must have executable permissions. 
-<br />
+files <b>debug.sh</b> and <b>testOne.sh</b> of the main folder of the repo must have executable permissions.    
+	
+``` 
+chmod 755 debug.sh
+chmod 755 testOne.sh               
+```               
 .lnp files are in the main folder of the repo. 
 <br />
 .lan files that are used for testing the debugger are in the folder "repo-Debug". 
