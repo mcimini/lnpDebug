@@ -1,0 +1,7 @@
+Theorem Progress-thm : 
+	forall e, forall typ, (Main : typeOf (empty) e typ) -> (_ : progresses e).
+Proof. 
+_ : induction on Main.  
+for each ty in Type iterating Main at 2: 
+	search
+endfor
