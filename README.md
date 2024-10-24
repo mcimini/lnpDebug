@@ -2,6 +2,9 @@
 
 This repo contains a copy of the <a href="https://github.com/mcimini/lang-n-prove">Lang-n-Prove tool</a> that has been augmented with a debugging system. 
 
+This debugging system is described <a href="docs/lnpDebugger_paper.pdf">in this paper</a>.  
+
+
 Authors of Debugging System: 
 <ul>
 <li>Design: Charlesowityear Ly, Eswarasanthosh Kumar Mamillapalli, Matteo Cimini
