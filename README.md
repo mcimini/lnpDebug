@@ -2,7 +2,7 @@
 
 This repo contains a copy of the <a href="https://github.com/mcimini/lang-n-prove">Lang-n-Prove tool</a> that has been augmented with a debugging system. 
 
-This debugging system is described <a href="docs/lnpDebugger_paper.pdf">in this paper</a>.  
+This debugging system is described in this paper: coming soon.   
 
 
 Authors of Debugging System: 
@@ -77,8 +77,6 @@ What it does:  <br />
 
 # <a name="tests"></a>Tests
 
-The debugging system and our tests are described <a href="docs/lnpDebugger_paper.pdf">in this paper</a>.  
-Please refer to the paper for their description, below we show how to apply the debugger to those examples and the output of the debugger.  
 
 <ul>
 <li> Example in Section 3.2 
