@@ -1,6 +1,6 @@
 # Lang-n-Prove with Debugging System
 
-This repo contains a copy of the <a href="https://github.com/mcimini/lang-n-prove">Lang-n-Prove tool</a> that has been augmented with a debugging system. 
+This repo contain a copy of the <a href="https://github.com/mcimini/lang-n-prove">Lang-n-Prove tool</a> that has been augmented with a debugging system. 
 
 This debugging system is described in this paper: coming soon.   
 
