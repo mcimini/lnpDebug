@@ -1,8 +1,16 @@
 # Lang-n-Prove with Debugging System
 
-This repo contain a copy of the <a href="https://github.com/mcimini/lang-n-prove">Lang-n-Prove tool</a> that has been augmented with a debugging system. 
+This repo contains a copy of the <a href="https://github.com/mcimini/lang-n-prove">Lang-n-Prove tool</a> that has been augmented with a debugging system. 
 
-This debugging system is described in this paper: coming soon.   
+This debugging system is described in this paper: 
+<br/>
+A Debugging System for Language-Parameterized Proofs. 
+<br/>
+Charlesowityear Ly, Eswarasanthosh Kumar Mamillapalli, Matteo Cimini. 
+<br/>
+In <i>Rebeca for Actor Analysis in Action</i>. Lecture Notes in Computer Science, vol 15560. Springer, Cham, pages 364-389, 2025. 
+<br/>
+(Festschrift volume dedicated to Marjan Sirjani.)  
 
 
 Authors of Debugging System: 
@@ -18,7 +26,7 @@ Original Lang-n-Prove tool:
 <ul>
 	Author: Matteo Cimini (matteo_cimini@uml.edu)
 <br />
-Subtyping support: Seth Galasso (seth.galasso@gmail.com)
+Subtyping support: Tess Galasso 
 </ul>
 <br />
 
